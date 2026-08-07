@@ -95,17 +95,19 @@ A user-friendly web interface is created using Streamlit where users can provide
 ```
 DS_Mini_Project/
 │
-├── app.py                     # Streamlit web application
+├── app.py                         # Streamlit web application for student performance prediction
 │
-├── model.ipynb                # Data analysis, preprocessing and model training notebook
+├── model.ipynb                    # Jupyter Notebook containing data analysis, preprocessing and model training
 │
-├── student_data.csv           # Student dataset used for training and prediction
+├── student_data.csv               # Dataset used for training and prediction
 │
-├── ML_Doc.docx                # Project documentation
+├── requirements.txt               # List of required Python libraries and dependencies
 │
-├── ML_Doc.pdf                 # Project documentation (PDF format)
+├── ML_Doc.docx                    # Detailed project documentation (Word format)
 │
-├── ML_Model_Presentation.pptx # Project presentation
+├── ML_Doc.pdf                     # Detailed project documentation (PDF format)
 │
-└── README.md                  # Project overview and instructions
+├── ML_Model_Presentation.pptx     # Project presentation slides
+│
+└── README.md                      # Project overview, setup instructions and documentation
 ```
