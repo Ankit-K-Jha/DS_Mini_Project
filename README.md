@@ -111,3 +111,9 @@ DS_Mini_Project/
 │
 └── README.md                      # Project overview, setup instructions and documentation
 ```
+
+## 🌐 Live Demo
+
+The project is deployed using Streamlit and can be accessed online:
+
+👉 [**Live Demo – Student Performance Prediction**]https://student-grade-prediction-ml.streamlit.app/
